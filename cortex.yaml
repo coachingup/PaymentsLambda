@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: Paymentslambda
+  description: ""
+  x-cortex-tag: paymentslambda
+  x-cortex-git:
+    github:
+      repository: coachingup/PaymentsLambda
+  x-cortex-service-groups:
+  - lambda
+  - aws
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.0.1
+    cortex-generated-timestamp: 2022-08-12T00:06:58.849229
